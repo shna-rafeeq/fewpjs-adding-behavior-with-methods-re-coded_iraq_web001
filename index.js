@@ -30,3 +30,4 @@ class Bird{
   // }
   
 }
+let cat = new Cat();
