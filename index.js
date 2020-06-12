@@ -30,4 +30,4 @@ class Bird{
   // }
   
 }
-let cat = new Cat();
+let  cat = new Cat("Sasha", "female")
